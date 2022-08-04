@@ -1,0 +1,4 @@
+computer	1200
+monitor	800
+printer	200
+desk	350
